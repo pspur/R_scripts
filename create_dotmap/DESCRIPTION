@@ -1,0 +1,17 @@
+Package: ccr.plotting.genomics
+Version: 0.0.1
+Type: Package
+Title: Functions to create publication-quality plots
+Date: 2015-07-22
+Author: Paul Spurgeon, Jianxin Wang
+Maintainer: Jianxin Wang <jw24@buffalo.edu>
+Depends: R (>= 3.2.0), reshape2 (>= 0.8.5), ggplot2 (>= 1.0.1),
+        RColorBrewer (>= 1.1-2)
+Suggests: knitr
+Description: Contains publication-quality plotting functions.
+License: GPL-2
+LazyLoad: yes
+LazyDate: yes
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2015-07-30 16:33:16 UTC; jw24
